@@ -1,4 +1,8 @@
 # AirCom
+
+![AirCom HIT](screenshot3.png)
+
+
  
 AirCom is a Java desktop game that reimagines Battleship as an isometric, missile-based combat game. Two players take turns attacking and defending across a shared board, launching missiles from their ships and trying to intercept incoming fire before it lands.
  
