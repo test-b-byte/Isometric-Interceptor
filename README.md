@@ -1,6 +1,6 @@
 # AirCom
 
-![AirCom HIT](screenshot3.png)
+![AirCom HIT](screenshot2.png)
 
 
  
@@ -9,7 +9,9 @@ AirCom is a Java desktop game that reimagines Battleship as an isometric, missil
 Originally built as a CS 5004 project, then extended afterward as a personal sandbox project.
  
 ## How it plays
- 
+
+![Interception](screenshot3.png)
+
 Each round alternates between two phases:
  
 - **Attack** — the attacking player picks a launch point (one of their ships) and a target on the opposing side of the board, then fires a missile along a calculated flight path.
@@ -17,6 +19,8 @@ Each round alternates between two phases:
 Launching a defensive interceptor risks exposing the defender's own ship positions, so there's a risk/reward tension in choosing to defend versus staying hidden. Ships have different lengths and launch speeds (carrier, battleship, cruiser, destroyer), which affects how quickly they can respond.
  
 The game ends when one player's ships are all eliminated.
+
+![Artillery](screenshot1.png)
  
 ## Running it
  
