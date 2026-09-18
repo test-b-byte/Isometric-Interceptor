@@ -1,5 +1,7 @@
 # AirCom
 
+
+##Failed Interception
 ![AirCom HIT](screenshot2.png)
 
 
@@ -20,7 +22,7 @@ Launching a defensive interceptor risks exposing the defender's own ship positio
  
 The game ends when one player's ships are all eliminated.
 
-![Artillery](game screenshot1.png)
+![Artillery](game_screenshot1.png)
  
 ## Running it
  
