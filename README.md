@@ -20,7 +20,7 @@ Launching a defensive interceptor risks exposing the defender's own ship positio
  
 The game ends when one player's ships are all eliminated.
 
-![Artillery](screenshot1.png)
+![Artillery](game screenshot1.png)
  
 ## Running it
  
